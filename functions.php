@@ -1,6 +1,6 @@
 <?php
 // koneksi ke database
-$conn = mysqli_connect("localhost", "root", "", "phpskc");
+$conn = mysqli_connect("localhost", "root", "diitaaulia", "phpskc");
 
 function query($query)
 {
